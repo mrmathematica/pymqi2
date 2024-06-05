@@ -242,7 +242,7 @@ Learn more
 Visit the `documentation <https://zato.io/en/docs/3.2/pymqi/index.html?gh>`_ for more information and usage examples.
 """
 
-setup(name = 'pymqi',
+setup(name = 'pymqi2',
     version = version,
     description = 'Python IBM MQI Extension for IBM MQ (formerly WebSphere MQ and MQSeries).',
     long_description = long_description,
